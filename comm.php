@@ -5,5 +5,4 @@
  * Date: 2018/9/27
  * Time: 10:46
  */
-echo "zyp lm";
-echo "zyp ss";
+echo "赵一荣是sb";
