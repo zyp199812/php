@@ -6,4 +6,3 @@
  * Time: 10:46
  */
 echo "zyp lm";
-echo "zey lm";
